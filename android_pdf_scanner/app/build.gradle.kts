@@ -35,7 +35,7 @@ dependencies {
     implementation("androidx.compose.material3:material3")
     implementation("androidx.compose.material:material-icons-extended")
 
-    // Official ML Kit Document Scanner (Edge detection, perspective warp, shadow removal)
+   
     implementation("com.google.android.gms:play-services-mlkit-document-scanner:16.0.0-beta1")
 
     // Room Database + SQLite FTS5 for document search
